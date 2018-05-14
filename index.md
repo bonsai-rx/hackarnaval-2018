@@ -16,11 +16,57 @@ title: Bonsai @ HACKarnaval 2018
   </tr>
 </table>
 
----
+</script>
+</section>
+
+<!-- Raw HTML for embedded iframe backgrounds -->
+<section data-background="#000000">
+    <section data-background-iframe="https://www.youtube.com/embed/-NAH5vlkgkk?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=4q9mFkZ3J_g&amp;showinfo=0&amp;rel=0&amp;html5=1">
+      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
+        <tr><th>Augmented Reality @ YDreams</th></tr>
+      </table>
+    </section>
+    <section data-background-iframe="https://www.youtube.com/embed/qXcIZ1R68SQ?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;loop=1&amp;playlist=4q9mFkZ3J_g&amp;showinfo=0&amp;rel=0&amp;html5=1">
+    </section>
+</section>
+
+<section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
+<script type="text/template">
 
 ![Devices in systems neuroscience](./assets/images/devices.jpg)
 
----
+</script>
+</section>
+
+<!-- Raw HTML for embedded iframe backgrounds -->
+<section data-background="#000000">
+    <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
+    <script type="text/template">## Applications</script>
+    </section>
+    <section data-background-iframe="https://www.youtube.com/embed/qXqAXgXJPmo?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
+      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
+        <tr><th>Lorenza Calcaterra, Kampff Lab</th></tr>
+      </table>
+    </section>
+    <section data-background-iframe="https://www.youtube.com/embed/mJDV07ptQFk?start=40&amp;controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
+      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
+        <tr><th>George Dimitriadis, Kampff Lab</th></tr>
+      </table>
+    </section>
+    <section data-background-iframe="https://www.youtube.com/embed/7ohPpPDZhRc?controls=0&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1&amp;iv_load_policy=3">
+      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
+        <tr><th>AR @ Champalimaud Foundation</th></tr>
+      </table>
+    </section>
+    <section data-background-iframe="https://player.vimeo.com/video/257724328?api=1&amp;background=1&amp;portrait=0">
+      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
+        <tr><th>Collective Motion Laboratory</th></tr>
+      </table>
+    </section>
+</section>
+
+<section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
+<script type="text/template">
 
 ![Bonsai workflow editor](./assets/images/editor.jpg)
 
@@ -170,36 +216,4 @@ title: Bonsai @ HACKarnaval 2018
 ![Combine all sequences of frames into a single sequence](./assets/images/concatfile-combine.svg)
 
 </script>
-</section>
-
-<!-- Raw HTML for embedded iframe backgrounds -->
-<section data-background="#000000">
-    <section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
-    <script type="text/template">## Applications</script>
-    </section>
-    <section data-background-iframe="https://www.youtube.com/embed/7ohPpPDZhRc?controls=0&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1&amp;iv_load_policy=3">
-      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
-        <tr><th>AR @ Champalimaud Foundation</th></tr>
-      </table>
-    </section>
-    <section data-background-iframe="https://www.youtube.com/embed/mJDV07ptQFk?start=40&amp;controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
-      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
-        <tr><th>George Dimitriadis, Kampff Lab</th></tr>
-      </table>
-    </section>
-    <section data-background-iframe="https://www.youtube.com/embed/JrhGTIT-y5M?start=44&amp;controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
-      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
-        <tr><th>Project NAVI</th></tr>
-      </table>
-    </section>
-    <section data-background-iframe="https://player.vimeo.com/video/257724328?api=1&amp;background=1&amp;portrait=0">
-      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
-        <tr><th>Collective Motion Laboratory</th></tr>
-      </table>
-    </section>
-    <section data-background-iframe="https://www.youtube.com/embed/qXqAXgXJPmo?controls=0&amp;enablejsapi=1&amp;autoplay=1&amp;showinfo=0&amp;rel=0&amp;html5=1">
-      <table style="height: 20%; margin-top: 65%; margin-left: -78px;">
-        <tr><th>Lorenza Calcaterra, Kampff Lab</th></tr>
-      </table>
-    </section>
 </section>
